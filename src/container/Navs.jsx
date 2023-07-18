@@ -1,4 +1,4 @@
-import logo from "./img/logo.svg"
+import logo from "../components/img/logo.svg"
 import SearchBar from "../components/SearchBar"
 
 
