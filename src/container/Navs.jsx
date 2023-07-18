@@ -1,5 +1,6 @@
 import logo from "./img/logo.svg"
-import SearchBar from "../components/SearchBar";
+import SearchBar from "../components/SearchBar"
+
 
 const Navs = () => {
   
@@ -10,7 +11,7 @@ const Navs = () => {
       </div>
 
       <div>
-        <SearchBar />
+      <SearchBar />
       </div>
      
     </header>

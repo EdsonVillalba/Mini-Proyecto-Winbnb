@@ -1,5 +1,5 @@
 import Cards from "./Cards"
-import Navs from "../components/Navs"
+import Navs from "./Navs"
 import SubNavs from "../components/SubNavs"
 
 const ContenedorApp = () => {
